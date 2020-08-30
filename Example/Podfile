@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'LEGO-ExceptionHandler_Example' do
+  pod 'LEGO-ExceptionHandler', :path => '../'
+
+  target 'LEGO-ExceptionHandler_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

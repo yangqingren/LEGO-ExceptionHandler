@@ -1,0 +1,22 @@
+{
+  "name": "LEGO-ExceptionHandler",
+  "version": "0.1.0",
+  "summary": "A short description of LEGO-ExceptionHandler.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/564008993@qq.com/LEGO-ExceptionHandler",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "564008993@qq.com": "yangqingren@yy.com"
+  },
+  "source": {
+    "git": "https://github.com/564008993@qq.com/LEGO-ExceptionHandler.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "LEGO-ExceptionHandler/Classes/**/*"
+}

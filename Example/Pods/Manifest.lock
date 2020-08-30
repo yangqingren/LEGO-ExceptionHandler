@@ -1,0 +1,16 @@
+PODS:
+  - LEGO-ExceptionHandler (0.1.0)
+
+DEPENDENCIES:
+  - LEGO-ExceptionHandler (from `../`)
+
+EXTERNAL SOURCES:
+  LEGO-ExceptionHandler:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LEGO-ExceptionHandler: 27c99bcb7a41e25d0098083b48fbd3736a6cdb84
+
+PODFILE CHECKSUM: 141719ef4715a46d6a0ef005a266a49c3c52e720
+
+COCOAPODS: 1.9.1

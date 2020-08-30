@@ -1,0 +1,6 @@
+framework module LEGO_ExceptionHandler {
+  umbrella header "LEGO-ExceptionHandler-umbrella.h"
+
+  export *
+  module * { export * }
+}
